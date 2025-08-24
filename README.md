@@ -163,4 +163,4 @@ If you encounter any issues or have questions, please:
 
 ---
 
-**Built with ❤️ using React and TailwindCSS**
+**Built with ❤️ using React and TailwindCSS By Sanjay Kirti**
